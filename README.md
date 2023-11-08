@@ -2,7 +2,7 @@
 ![Data Science Banner](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 # Hi, My Name is Shashwat Pritish 😀
-![Coder](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
+![Coder]([https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1699451133~exp=1699454733~hmac=134ec0bf833f5b94c50aa54472730897f67a39723495b3ca54b6dfd09c678c56&w=826))
 ## I have a Youtube Channel [Pritish Academy]("https://www.youtube.com/@pritishacademy"). Please Subscribe it
 
 ## 🚀 About Me
