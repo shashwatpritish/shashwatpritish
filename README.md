@@ -1,5 +1,5 @@
 
-![Data Science Banner](Untitled-1.png)
+![Data Science Banner](Shashwat.png)
 
 # Hi, My Name is Shashwat Pritish 😀
 ![Coder](https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1699451133~exp=1699454733~hmac=134ec0bf833f5b94c50aa54472730897f67a39723495b3ca54b6dfd09c678c56&w=826)
