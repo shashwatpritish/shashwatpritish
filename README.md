@@ -14,16 +14,16 @@ I'm also a ML Engineer
 ## Frameworks that I have learned
 
 
-#### Django
-#### Flask
-#### Tensorflow
-#### Scikit-learn
-#### Textblob
-#### Kivy
-#### KivyMD
-#### Numpy
-#### Pandas
-#### Matplotlib
-#### OpenCV
+- Django
+- Flask
+- Tensorflow
+- Scikit-learn
+- Textblob
+- Kivy
+- KivyMD
+- Numpy
+- Pandas
+- Matplotlib
+- OpenCV
 
 and a lot more ...
